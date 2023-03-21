@@ -2,6 +2,7 @@
 /.gradle/
 .gradle
 .idea
+application-oauth.properties
 
 /out/
 /out/production/classes/

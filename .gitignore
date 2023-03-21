@@ -8,3 +8,6 @@ application-oauth.properties
 
 build
 out
+/.gradle
+/.idea
+/out
